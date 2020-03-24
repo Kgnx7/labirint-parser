@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Шалунья-сестричка",
+    "price": "962",
+    "author": "Эдвардс Дороти",
+    "image": "https://img4.labirint.ru/rc/a15d4af764a90d4159cbfef72c80522f/246x330/books75/743474/cover.jpg?1584699963"
+  },
+  {
+    "title": "Полли хочет крекер",
+    "price": "589",
+    "author": "Гладов Олег",
+    "image": "https://img3.labirint.ru/rc/83bd7a1ff3253d2263f715e6c2f88ecf/246x330/books75/743453/cover.jpg?1584959102"
+  },
+  {
+    "title": "Наряжай-ка Елизавета 3D пазл 17020",
+    "price": "83",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/9af200dea66c6e15443c7448864d0cc1/246x330/books75/743422/cover.jpg?"
+  },
+  {
+    "title": "Словарь - букварь. Английский язык для малышей в картинках",
+    "price": "246",
+    "author": "Зиновьева Лариса Александровна",
+    "image": "https://img3.labirint.ru/rc/1f39d0977a67d567e828dcaed09fa24a/246x330/books75/743421/cover.jpg?1584779153"
+  },
+  {
+    "title": "Большая энциклопедия. Тело человека",
+    "price": "951",
+    "author": "Уилсдон Кристина",
+    "image": "https://img4.labirint.ru/rc/7e9aa0e2b2282d5dab7cdb7a5e9abdb8/246x330/books75/743420/cover.jpg?1584779152"
+  },
+  {
+    "title": "Хорошие жены",
+    "price": "404",
+    "author": "Олкотт Луиза Мэй",
+    "image": "https://img3.labirint.ru/rc/79d2300a7f2281bf49d746291dfbb73c/246x330/books75/743407/cover.jpg?1584703628"
+  },
+  {
+    "title": "Стану рыжей и мертвой, как ты",
+    "price": "155",
+    "author": "Данилова Анна Васильевна",
+    "image": "https://img4.labirint.ru/rc/401857bac5f63118d71227b92d1762f3/246x330/books75/743406/cover.jpg?1584703627"
+  },
+  {
+    "title": "700 новых устных тем по немецкому языку",
+    "price": "255",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/b2a9a112490b64d6ace904c973133e14/246x330/books75/743391/cover.jpg?"
+  },
+  {
+    "title": "У меня будет остров!",
+    "price": "930",
+    "author": "Фехер Клара",
+    "image": "https://img4.labirint.ru/rc/d3a6e159d6a5a0af945b652c771a70fd/246x330/books75/743388/cover.jpg?1584631511"
+  },
+  {
+    "title": "Поединок с самим собой",
+    "price": "833",
+    "author": "Раевский Борис",
+    "image": "https://img4.labirint.ru/rc/e4523d7b0277c770870f0fb1ad70bd26/246x330/books75/743386/cover.jpg?1584627942"
+  },
+  {
+    "title": "Медвежонок и Тигрёнок",
+    "price": "972",
+    "author": "Янош",
+    "image": "https://img3.labirint.ru/rc/f50a78c74fb71536418165d0cc8748d0/246x330/books75/743385/cover.jpg?1584627941"
+  },
+  {
+    "title": "Строим новый дом!",
+    "price": "1 297",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/6c368a87f4a1ed4a49752b73bed60612/246x330/books75/743384/cover.jpg?1584627940"
+  },
+  {
+    "title": "Карл из телевизора",
+    "price": "756",
+    "author": "Нестлингер Кристине",
+    "image": "https://img3.labirint.ru/rc/8353c4dd00b56e0f49a62528e163aed3/246x330/books75/743383/cover.jpg?1584627939"
+  },
+  {
+    "title": "Данные: визуализируй, расскажи, используй",
+    "price": "1 150",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/c0ed661a16124bb5e61a4b8b1e50c012/246x330/books75/743319/cover.png?1584631508"
+  },
+  {
+    "title": "Большая четверка. Секреты успеха Amazon, Apple, Facebook и Google",
+    "price": "782",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/26bd6cccdf715de9c7da2701df5606e0/246x330/books75/743315/cover.jpg?1584627910"
+  },
+  {
+    "title": "Из депрессии. Выход рядом",
+    "price": "726",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/aa229118bd6b855d2a90499c72c86839/246x330/books75/743301/cover.jpg?1584631508"
+  },
+  {
+    "title": "Книга про счастье",
+    "price": "552",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/9446ad39248c1b344e7dbaa29b34913b/246x330/books75/743299/cover.jpg?1585045540"
+  },
+  {
+    "title": "Дьявол в быту, легендах и литературе Средних веков",
+    "price": "572",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/c12036815f39ec20656392365b22229d/246x330/books75/743294/cover.jpg?"
+  },
+  {
+    "title": "Без своего мнения. Как Google, Facebook, Amazon и Apple лишают вас индивидуальности",
+    "price": "514",
+    "author": "Фоер Франклин",
+    "image": "https://img4.labirint.ru/rc/2aa8e45e68aead3c45e5dc465b8f0941/246x330/books75/743292/cover.jpg?1584703620"
+  },
+  {
+    "title": "Переговоры как искусство. Профессиональные секреты звездного адвоката",
+    "price": "551",
+    "author": "Добровинский Александр Андреевич",
+    "image": "https://img3.labirint.ru/rc/0ba6fdfe5b07864745b130170115d3e2/246x330/books75/743291/cover.jpg?1584703619"
+  },
+  {
+    "title": "Последняя лекция",
+    "price": "349",
+    "author": "Пауш Рэнди",
+    "image": "https://img4.labirint.ru/rc/08efd6c73add8f7fe1473120eb22ec60/246x330/books75/743290/cover.jpg?1584703618"
+  },
+  {
+    "title": "Great show. Блокнот для списков дел и покупок",
+    "price": "280",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/5a2c5e9752f093bfe9c735bac930d1c8/246x330/books75/743289/cover.jpg?1584703617"
+  },
+  {
+    "title": "Magic dream. Блокнот для списков дел и покупок",
+    "price": "280",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/9095b47a121679562f03a08fcec5f866/246x330/books75/743288/cover.jpg?1584703616"
+  },
+  {
+    "title": "My beautiful life. Блокнот для списков дел и покупок",
+    "price": "280",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/0e13d592dd82ce8c315eeb2baba37893/246x330/books75/743287/cover.jpg?1584703616"
+  },
+  {
+    "title": "УУД История Нового времени 8кл. Юдовская Раб.тетр.",
+    "price": "124",
+    "author": "Чернова Марина Николаевна",
+    "image": "https://img3.labirint.ru/rc/b8618cee55a053231c934ede4fffd22a/246x330/books75/743285/cover.jpg?"
+  },
+  {
+    "title": "Тренажер. Смысловое чтение. 5 класс",
+    "price": "124",
+    "author": "Григорьева Александра Кимовна",
+    "image": "https://img4.labirint.ru/rc/41a9b5dc322f07980e40fe650185053f/246x330/books75/743284/cover.jpg?"
+  },
+  {
+    "title": "ВПР История 8кл. 10 вариантов. ТЗ",
+    "price": "134",
+    "author": "Орлова Татьяна Сергеевна",
+    "image": "https://img3.labirint.ru/rc/2f7c1df6cef13670b8a5480c5f6bbd51/246x330/books75/743283/cover.jpg?"
+  },
+  {
+    "title": "ВПР Биология 8кл. 10 вариантов. ТЗ",
+    "price": "134",
+    "author": "Мазяркина Татьяна Вячеславовна",
+    "image": "https://img4.labirint.ru/rc/d25b1b14398145041c7d2ba6e10e5f67/246x330/books75/743282/cover.jpg?"
+  },
+  {
+    "title": "ВПР ЦПМ Обществознание 8кл. 25 вариантов. ТЗ",
+    "price": "213",
+    "author": "Коваль Татьяна Викторовна",
+    "image": "https://img3.labirint.ru/rc/430b90be3872c44ff9c7fb94eac1706d/246x330/books75/743281/cover.jpg?"
+  },
+  {
+    "title": "ВПР ЦПМ Обществознание 8кл. 10 вариантов. ТЗ",
+    "price": "134",
+    "author": "Коваль Татьяна Викторовна",
+    "image": "https://img4.labirint.ru/rc/503e615751da491a861d9de90f56a660/246x330/books75/743280/cover.jpg?"
+  },
+  {
+    "title": "ВПР ЦПМ Математика 8кл. 15 вариантов. ТЗ",
+    "price": "138",
+    "author": "Ященко И. В.",
+    "image": "https://img3.labirint.ru/rc/a2583a5090703efe0df28324ec253443/246x330/books75/743279/cover.jpg?"
+  },
+  {
+    "title": "ВПР ЦПМ Математика 8кл. 10 вариантов. ТЗ",
+    "price": "134",
+    "author": "Ященко И. В.",
+    "image": "https://img4.labirint.ru/rc/0d86a106ac48b2d9be32147c3f0d36a1/246x330/books75/743278/cover.jpg?"
+  },
+  {
+    "title": "Русская живопись. Сказка",
+    "price": "3 468",
+    "author": "Астахов А. Ю.",
+    "image": "https://img3.labirint.ru/rc/49b9e73f688a27e320830aebea3e0f96/246x330/books75/743277/cover.jpg?"
+  },
+  {
+    "title": "Русская живопись. Мастера пейзажа",
+    "price": "3 468",
+    "author": "Астахов А. Ю.",
+    "image": "https://img4.labirint.ru/rc/2205f084a998795aaf7dc019b1c3af4a/246x330/books75/743276/cover.jpg?"
+  },
+  {
+    "title": "Краткая история Бразилии",
+    "price": "843",
+    "author": "Фаусту Борис",
+    "image": "https://img3.labirint.ru/rc/e9d4d72695d603eaf5a0c52f0594a690/246x330/books75/743275/cover.jpg?1584991697"
+  },
+  {
+    "title": "Внимательность. Практическое руководство по пробуждению",
+    "price": "1 551",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/83b2749fb0025c500025b782cd2873bc/246x330/books75/743273/cover.jpg?"
+  },
+  {
+    "title": "Prince. The Beautiful Ones. Оборвавшаяся автобиография легенды поп-музыки",
+    "price": "826",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/7b31df7132bda7e1827e9d172b8e9300/246x330/books75/743272/cover.jpg?1584703615"
+  },
+  {
+    "title": "Wu-Tang Clan. Исповедь U-GOD. Как 9 парней с района навсегда изменили хип-хоп",
+    "price": "643",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/49b918327b2aa3a5073bbf27b914a090/246x330/books75/743271/cover.jpg?1584703614"
+  },
+  {
+    "title": "Абсолютист",
+    "price": "441",
+    "author": "Бойн Джон",
+    "image": "https://img4.labirint.ru/rc/5906b0c51d814e36cd33e74dad917570/246x330/books75/743270/cover.jpg?1584617205"
+  },
+  {
+    "title": "ВПР ФИОКО Математика 7кл. 10 вариантов. ТЗ",
+    "price": "154",
+    "author": "Ященко И. В.",
+    "image": "https://img3.labirint.ru/rc/ecf2349080df27bef3632059dd8073c0/246x330/books75/743269/cover.jpg?"
+  },
+  {
+    "title": "Большая книга проектов Розы Риверы",
+    "price": "732",
+    "author": "Бети Андреа",
+    "image": "https://img4.labirint.ru/rc/0032b179451a4b53bb37900ebdfd979e/246x330/books75/743268/cover.png?1584617204"
+  },
+  {
+    "title": "Букварь для мальчиков. выбор.лак",
+    "price": "243",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/8d65301b97889a7d9ee404df6af2f873/246x330/books75/743267/cover.jpg?"
+  },
+  {
+    "title": "Букварь для девочек. выбор.лак",
+    "price": "243",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/beace1d8056a6eec6ae5c028b1bf63a0/246x330/books75/743266/cover.jpg?"
+  },
+  {
+    "title": "Напольный XXL пазл. Зоопарк",
+    "price": "504",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/007773da8fca1018cef057b5329feed7/246x330/books75/743265/cover.jpg?"
+  },
+  {
+    "title": "Напольный XXL пазл. Времена года",
+    "price": "504",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/cc4e5b0c6b752d642d13db7cf61278a7/246x330/books75/743264/cover.jpg?"
+  },
+  {
+    "title": "Скетчбук А5. Авокадо (выб.лак)",
+    "price": "182",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/7b5339ae715d464ceee4ecf21321e405/246x330/books75/743263/cover.jpg?"
+  },
+  {
+    "title": "Я обязательно вернусь",
+    "price": "112",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/73bbb132c657821b83cbe16b5766785b/246x330/books75/743261/cover.jpg?"
+  },
+  {
+    "title": "Совсем немного лжи",
+    "price": "112",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/2d6e9fc133d4d8dd227e39d7e1038584/246x330/books75/743260/cover.jpg?"
+  },
+  {
+    "title": "Няня для плейбоя",
+    "price": "112",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/e9cc6f96aad2bb71371b757b6e74d0c6/246x330/books75/743259/cover.jpg?"
+  },
+  {
+    "title": "Любимец богов",
+    "price": "112",
+    "author": "Уилсон К.",
+    "image": "https://img4.labirint.ru/rc/47923d1c59c71f6c7399a1b4d7383b70/246x330/books75/743258/cover.jpg?"
+  },
+  {
+    "title": "Математические игры и головоломки",
+    "price": "185",
+    "author": "Уилсон Ханна",
+    "image": "https://img3.labirint.ru/rc/0cf5a1b16b5dee467827d01c9ab11b08/246x330/books75/743257/cover.jpg?1584980703"
+  },
+  {
+    "title": "Как это работает? В играх и головоломках",
+    "price": "185",
+    "author": "Вирр Пол",
+    "image": "https://img4.labirint.ru/rc/471325403b11a0496fb994638d139b7c/246x330/books75/743256/cover.jpg?1584980702"
+  },
+  {
+    "title": "Дядя Стёпа",
+    "price": "201",
+    "author": "Михалков Сергей Владимирович",
+    "image": "https://img3.labirint.ru/rc/855049f73c750c39e7a4d2a43b85a0f8/246x330/books75/743255/cover.jpg?1584703613"
+  },
+  {
+    "title": "Мои любимые животные",
+    "price": "87",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/f02548aa1c9062eaad2370e3e20578bb/246x330/books75/743254/cover.jpg?1584703612"
+  },
+  {
+    "title": "Машинки",
+    "price": "87",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/ede0b034a644742c5285e717573f3f1b/246x330/books75/743253/cover.jpg?1584703611"
+  },
+  {
+    "title": "Игрушки",
+    "price": "87",
+    "author": null,
+    "image": "https://img4.labirint.ru/rc/386e4baf497f640ab6f7e69c9d3b0d86/246x330/books75/743252/cover.jpg?1584703610"
+  },
+  {
+    "title": "Веселые зверята",
+    "price": "87",
+    "author": null,
+    "image": "https://img3.labirint.ru/rc/bf7ad7f35a7e2971c381e9d5475d30ab/246x330/books75/743251/cover.jpg?1584703610"
+  },
+  {
+    "title": "Сказки про принцесс",
+    "price": "239",
+    "author": "Андерсен Ханс Кристиан",
+    "image": "https://img4.labirint.ru/rc/f44832b131199018feb868c186311f6e/246x330/books75/743250/cover.jpg?1584703609"
+  },
+  {
+    "title": "Атлас анатомии человека",
+    "price": "545",
+    "author": "Спектор Анна Артуровна",
+    "image": "https://img3.labirint.ru/rc/52c04ff0d8f478cfccee49b3939daa70/246x330/books75/743249/cover.jpg?1584703608"
+  },
+  {
+    "title": "Сказки маленьким детям",
+    "price": "502",
+    "author": "Успенский Эдуард Николаевич",
+    "image": "https://img4.labirint.ru/rc/c5f6f292f594bd30e85e39d1d1db49cc/246x330/books75/743248/cover.jpg?1584703607"
+  }
+]
